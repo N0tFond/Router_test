@@ -1,45 +1,14 @@
-# vue-project
+# Router JS / TS 
 
-This template should help get you started developing with Vue 3 in Vite.
+### Test d'un routeur TypeScript pour comprendre son fonctionnement
 
-## Recommended IDE Setup
+Suite à un besoin de la technologie de l'implémentation d'un routeur, j'ai pris la décision d'apprendre le JavaScript / TypeScript. 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Afin de mieux en connaitres son fonctionnement j'ai donc crées plusieurs repo sur les routeur, celui ci est pour le router en JAvaScript, un repo similaire est disponible avec un router lui, en TypeScript 
 
-## Type Support for `.vue` Imports in TS
+# [Router JavaScript](https://github.com/N0tFond/Router_js)
+Dans ce repos vous trouverez mes différents test d'un router en JavaScript
+***
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+> Note : Ce dépôt est uniquement destiné à mon apprentissage et à mes pratiques de développement. Il est public pour des raisons de transparence et de partage de connaissances et également d'aide, afin de peaufiner les détails.
