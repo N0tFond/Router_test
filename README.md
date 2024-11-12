@@ -1,14 +1,15 @@
-# Router JS / TS 
+# Router JS / TS
 
 ### Test d'un routeur TypeScript pour comprendre son fonctionnement
 
-Suite à un besoin de la technologie de l'implémentation d'un routeur, j'ai pris la décision d'apprendre le JavaScript / TypeScript. 
+Suite à un besoin de la technologie d'implémentation d'un routeur, j'ai pris la décision d'apprendre le JavaScript / TypeScript.
 
-Afin de mieux en connaitres son fonctionnement j'ai donc crées plusieurs repo sur les routeur, celui ci est pour le router en JAvaScript, un repo similaire est disponible avec un router lui, en TypeScript 
+Afin de mieux en connaitres son fonctionnement j'ai donc crées plusieurs repo sur les routeur, celui ci est pour le router en JAvaScript, un repo similaire est disponible avec un router lui, en TypeScript
 
 # [Router JavaScript](https://github.com/N0tFond/Router_js)
-Dans ce repos vous trouverez mes différents test d'un router en JavaScript
-***
 
+Dans ce repos vous trouverez mes différents test d'un router en JavaScript
+
+---
 
 > Note : Ce dépôt est uniquement destiné à mon apprentissage et à mes pratiques de développement. Il est public pour des raisons de transparence et de partage de connaissances et également d'aide, afin de peaufiner les détails.
